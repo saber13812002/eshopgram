@@ -1,0 +1,57 @@
+@media screen and (min-width: 992px) {
+
+     .pmargin{
+     margin-top:50px
+ }
+
+}
+
+@media screen and (max-width: 992px) {
+
+
+      .pmargin{
+      margin-top:0px
+  }
+
+}
+
+.tbl > td {
+
+    text-align: center;
+    vertical-align: middle !important;
+    border-right: 1px solid #f0f1f2;
+
+}
+
+.tbl > th {
+
+    text-align: center;
+    vertical-align: middle !important;
+    border-right: 1px solid #f0f1f2;
+
+}
+
+.inputwidth{
+    width:60px;
+}
+
+.basket{
+    font-size:16px;
+    margin-bottom:50px;
+}
+
+.table2{
+       font-weight: bold;
+}
+
+.imgclass{
+    height:150px;
+    width:150px;
+}
+
+@media screen and (max-width:991px) {
+  .imgclass{
+    height:100px;
+    width:100px;
+}  
+}

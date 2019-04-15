@@ -1,0 +1,6 @@
+[01-Feb-2019 16:57:35 Asia/Tehran] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 139680314772480 bytes) in [no active file] on line 0
+[05-Feb-2019 13:01:26 Asia/Tehran] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 140443181046360 bytes) in [no active file] on line 0
+[05-Feb-2019 13:04:09 Asia/Tehran] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 139660089137752 bytes) in [no active file] on line 0
+[08-Feb-2019 14:34:15 Asia/Tehran] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 140597325773632 bytes) in [no active file] on line 0
+[08-Feb-2019 15:02:17 Asia/Tehran] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 140400778718016 bytes) in [no active file] on line 0
+[08-Feb-2019 15:14:24 Asia/Tehran] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 140445406821184 bytes) in [no active file] on line 0
