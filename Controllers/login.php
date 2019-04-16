@@ -41,7 +41,7 @@ class Login extends Controller {
                }    
 
 
-        } 
+        }
 
         //$this->view->MyloginInfo = $this->model->MyloginInfo();
         $this->view->render('login/index', false, ' ', ' ', ' ');

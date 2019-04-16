@@ -1,7 +1,7 @@
 <?php
 
 // Always provide a TRAILING SLASH (/) AFTER A PATH
-define('DOMAIN','localhost/SaberProjects/eshopgram/eshopgram/public_html');
+define('DOMAIN','localhost/SaberProjects/eshopgram/eshopgram%20projects/eshopgram%20web/');
 //define('DOMAIN','eshopgram.com');
 define('URL', 'http://'.DOMAIN.'/');
 //define('JSON_IP', 'http://213.217.34.130:7780');
