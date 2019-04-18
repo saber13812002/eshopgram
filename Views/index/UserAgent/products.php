@@ -17,8 +17,9 @@
 
             $.ajax({
                 type: 'POST',
+                contenttype: 'application/json',
                 url: '<?php echo URL ?>'+'cart/add',
-                data: {'id': id
+                data: {"id": id
                 },
                 beforeSend: function () {
                     //$("#pparameters").html("<br><img style='display: block;margin: 0 auto;clear:both;' src='/public/images/loading.gif' />");
