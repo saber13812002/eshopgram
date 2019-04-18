@@ -17,6 +17,8 @@ class cart extends Controller
         $host = $_SERVER["HTTP_HOST"];
         $cookie = $_SERVER["HTTP_COOKIE"];
 
-        $err = $this->model->create($host, $payload['id'], $cookie);
+        $err = $this->model->saveData($host, $payload['id'], $cookie);
+
+        echo $err;
     }
 }
